@@ -1,7 +1,6 @@
 # [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges)
 
 ## 说明
-已逐步开始docker化,进度请移步SUMMARY.md
 一些有趣的代码审计“小”题目。
 
 1. 为代码审计新手/小白提供一些帮助,为CTF-Web-dog提供一些套路。
@@ -12,6 +11,7 @@
      4. [Ruby](https://github.com/CHYbeta/Code-Audit-Challenges#ruby)
 3. 以后还想告诉大家：java等等也是最好的语言。
 4. 会不断整理更新，删/换部分题目。
+5. 已逐步开始docker化,进度请移步SUMMARY.md
 
 ## 题目来源：
 + 各大CTF-OJ平台
